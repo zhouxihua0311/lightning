@@ -1,2 +1,3 @@
 # 
-myself respository
+myself respository for learn
+
